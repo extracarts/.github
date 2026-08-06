@@ -1,7 +1,8 @@
 ## Extra Carts 
 
 https://extracarts.com/
-German: https://extracarts.com/de
+
+German/Deutsch: https://extracarts.com/de
 
 ## A Shopify App that offers merchants extra revenue
 
