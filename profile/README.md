@@ -27,3 +27,6 @@ Amazon pioneered this with their: Who bought A also bought B
 Extra Carts brings this data driven approach to all Shopify merchants.
 
 **But paid only if it works**
+
+Made with ❤️ in Munich, Bavaria, Germany 
+from https://q4reachlabs.com by https://pascalfantou.com
